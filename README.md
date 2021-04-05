@@ -1,4 +1,4 @@
 # Rufous
 Linux Cloud Management Framework
 
-Kubernetes Bloatware Replacement
+Kubernetes Bloatware Replacement for SMB
